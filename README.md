@@ -5,8 +5,12 @@ another line under title
 
 ## Introduction
 
+lorem ipsum
+
 ## Purpose
 
 Sample website with plenty of files for demos
 
 ## How to contribute
+
+give some money
